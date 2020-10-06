@@ -13,3 +13,5 @@
 
 
 #taking multiple inputs at a time and casting using list funcions
+x = list(map(int, input("Enter multiple value you want : ").split()))
+print(x)
