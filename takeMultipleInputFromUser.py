@@ -11,3 +11,5 @@
 # a, b = input("Enter two value: ").split()
 # print("First number is {} \n Second number is {}".format(a,b))
 
+
+#taking multiple inputs at a time and casting using list funcions
